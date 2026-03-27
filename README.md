@@ -3,3 +3,6 @@ The goal of this project is to learn how to create a structured, single-page CV 
 
 Instructions to Run the Code:
 Preview the code on any browser of your choice.
+
+
+Project URL: https://roadmap.sh/projects/single-page-cv
